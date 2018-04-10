@@ -10,10 +10,10 @@ public class SomeClass{
 
 	public String doSomething{} {
 
-	String someVariable = "test";
-	
+	String someVariable = "bug";
+	ArrayList<String> someArrayList = new ArrayList<String>;
 
-	return "test";
+	return "";
 
 	}
 }
