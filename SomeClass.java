@@ -10,10 +10,11 @@ public class SomeClass{
 
 	public String doSomething{} {
 
-	String someVariable = "test";
-	
+	String someVariable = "wow";
+	String bestFood = "chickenbake";
+	String lastVariable = "pizza"
 
-	return "test";
+	return "RELEASE THE KRAKEN";
 
 	}
 }
