@@ -12,7 +12,7 @@ public class SomeClass{
 
 	String someVariable = "some";
 	String anotherVariable = "another";
-	String lastVariable = "hungry";
+	String lastVariable = "hungry"; 
 
 	return "anything";
 
